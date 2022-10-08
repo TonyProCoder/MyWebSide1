@@ -1,0 +1,2071 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+    
+<!-- Author Meta Tags by Molongui Authorship 4.5.2, visit: https://wordpress.org/plugins/molongui-authorship/ -->
+<meta name="author" content="alexkilty">
+<!-- /Molongui Authorship -->
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Social Warfare v4.3.0 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://www.learnworlds.com/app/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.3.0");
+		src:url("https://www.learnworlds.com/app/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.3.0#iefix") format("embedded-opentype"),
+		url("https://www.learnworlds.com/app/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.3.0") format("woff"),
+		url("https://www.learnworlds.com/app/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.3.0") format("truetype"),
+		url("https://www.learnworlds.com/app/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.3.0#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.3.0 https://warfareplugins.com - END OF OUTPUT -->
+
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v18.1 (Yoast SEO v18.2) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>LearnWorlds: Create &amp; Sell Online Courses from Your Own Site</title>
+	<meta name="description" content="Build a beautiful, social &amp; interactive online school to create, host and sell online courses. Setup in 5&#039; minutes - No Coding Required - 30 Days Free Trial" />
+	<link rel="canonical" href="https://www.learnworlds.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="Build a beautiful, social &amp; interactive online school to create, host and sell online courses. Setup in 5&#039; minutes - No Coding Required - 30 Days Free Trial" />
+	<meta property="og:url" content="https://www.learnworlds.com/" />
+	<meta property="og:site_name" content="Learnworlds" />
+	<meta property="article:publisher" content="https://www.facebook.com/learnWorldsCo" />
+	<meta property="article:modified_time" content="2020-11-09T09:13:04+00:00" />
+	<meta property="og:image" content="https://www.learnworlds.com/app/uploads/2020/02/lw-og_100.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@learnworlds" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.learnworlds.com/#organization","name":"LearnWorlds","url":"https://www.learnworlds.com/","sameAs":["https://www.facebook.com/learnWorldsCo","https://twitter.com/learnworlds"],"logo":{"@type":"ImageObject","@id":"https://www.learnworlds.com/#logo","inLanguage":"en-US","url":"/app/uploads/2021/01/LearnWorlds-logo.png","contentUrl":"/app/uploads/2021/01/LearnWorlds-logo.png","width":1200,"height":244,"caption":"LearnWorlds"},"image":{"@id":"https://www.learnworlds.com/#logo"}},{"@type":"WebSite","@id":"https://www.learnworlds.com/#website","url":"https://www.learnworlds.com/","name":"Learnworlds","description":"Create and Sell your own online courses","publisher":{"@id":"https://www.learnworlds.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.learnworlds.com/search/{search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.learnworlds.com/#webpage","url":"https://www.learnworlds.com/","name":"LearnWorlds: Create & Sell Online Courses from Your Own Site","isPartOf":{"@id":"https://www.learnworlds.com/#website"},"about":{"@id":"https://www.learnworlds.com/#organization"},"datePublished":"2015-04-17T11:21:17+00:00","dateModified":"2020-11-09T09:13:04+00:00","description":"Build a beautiful, social & interactive online school to create, host and sell online courses. Setup in 5' minutes - No Coding Required - 30 Days Free Trial","breadcrumb":{"@id":"https://www.learnworlds.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.learnworlds.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.learnworlds.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js-eu1.hs-scripts.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="stylesheet" href="/wp/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16">
+<link rel="stylesheet" href="/wp/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=aded25a7e1f6b88404f4734b1bda8424">
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" href="/app/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0">
+<link rel="stylesheet" href="/app/themes/learnworlds/dist/styles/main-bc023508.css">
+<link rel="stylesheet" href="/app/plugins/jetpack/css/jetpack.css?ver=10.7">
+<script type="text/javascript">
+	!function(){var analytics=window.analytics=window.analytics||[];if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.0";
+		window.analytics.load("KjRgGmAxjjnOXWL3APAHRnBlXCbkXUoe");
+	window.analytics.page();
+	  }}();
+</script>
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v9.0.123-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			        <style>
+            .molongui-disabled-link
+            {
+                border-bottom: none !important;
+                text-decoration: none !important;
+                color: inherit !important;
+                cursor: inherit !important;
+            }
+            .molongui-disabled-link:hover,
+            .molongui-disabled-link:hover span
+            {
+                border-bottom: none !important;
+                text-decoration: none !important;
+                color: inherit !important;
+                cursor: inherit !important;
+            }
+        </style>
+        
+    <script>var page = "", disqus_identifier = "2", lwAccountUrl = "https://account.learnworlds.com",  lwDemomakerUrl = "https://demomaker.us-e2.learnworlds.com/new";</script>
+
+    
+<!--    <script src="//d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js"></script>-->
+<!--    <script>Bugsnag.start({ apiKey: '0db8ab1d328b733166797d1782286188' })</script>-->
+    <style>
+        .grecaptcha-badge { visibility: hidden; }
+    </style>
+
+    <script>
+        function CookieLawInfo_Accept_Callback() {
+            if (CLI.consent.analytics) {
+
+                // Segment
+                                    var segment_key = "KjRgGmAxjjnOXWL3APAHRnBlXCbkXUoe";
+                    //console.log('segment_key: ', segment_key);
+                    if (segment_key) {
+                        !function () {
+                            var analytics = window.analytics = window.analytics || [];
+                            if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+                                analytics.invoked = !0;
+                                analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on", "addSourceMiddleware", "addIntegrationMiddleware", "setAnonymousId", "addDestinationMiddleware"];
+                                analytics.factory = function (e) {
+                                    return function () {
+                                        var t = Array.prototype.slice.call(arguments);
+                                        t.unshift(e);
+                                        analytics.push(t);
+                                        return analytics
+                                    }
+                                };
+                                for (var e = 0; e < analytics.methods.length; e++) {
+                                    var key = analytics.methods[e];
+                                    analytics[key] = analytics.factory(key)
+                                }
+                                analytics.load = function (key, e) {
+                                    var t = document.createElement("script");
+                                    t.type = "text/javascript";
+                                    t.async = !0;
+                                    t.src = "https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";
+                                    var n = document.getElementsByTagName("script")[0];
+                                    n.parentNode.insertBefore(t, n);
+                                    analytics._loadOptions = e
+                                };
+                                analytics._writeKey = segment_key;
+                                analytics.SNIPPET_VERSION = "4.13.2";
+                                analytics.load(segment_key);
+                                analytics.page();
+                                if (typeof initAnalyticsTrackLink === 'function') {
+                                    initAnalyticsTrackLink();
+                                }
+                                                                    analytics.track("Viewed Home Page", {"noninteraction":true});
+                                                            }
+                        }();
+                    }
+                            }
+        }
+    </script>
+
+        <!-- Recaptcha -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdkLvgZAAAAAF608MxlBReg6OurlzFAPD2QJaRF"></script>
+    <!-- GAconnector -->
+    <script data-cfasync="false" type="text/javascript" src="https://tracker.gaconnector.com/gaconnector.js"></script>
+    <script>function setGaconnectorHiddenFields(){var e=gaconnector.getCookieValues();for(var a in e){var t='form input[name="'+a+'"], form input#'+a+", form input#field_"+a+', form input[name="'+a.toLowerCase()+'"], form input#'+a.toLowerCase()+", form input#field_"+a.toLowerCase();t+='form textarea[name="'+a+'"], form textarea#'+a+", form textarea#field_"+a+', form textarea[name="'+a.toLowerCase()+'"], form textarea#'+a.toLowerCase()+", form textarea#field_"+a.toLowerCase()+", form textarea."+a+', form textarea[name="param['+a+"]\"], form textarea[id^='field_"+a+"']";var r=document.querySelectorAll(t);if(null!==r)if(void 0===r.length)r.value=e[a];else for(var o=0;o<r.length;o++)r[o].value=e[a]}}gaconnector.setCallback(setGaconnectorHiddenFields),setInterval(setGaconnectorHiddenFields,1e3);</script>
+    <!-- Facebook Custom Audience Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1038479636177123');fbq('track', 'PageView');
+        var event;
+        if(typeof(Event) === 'function') {
+            event = new Event('fb-loaded');
+        }else{
+            event = document.createEvent('Event');
+            event.initEvent('fb-loaded', true, true);
+        }
+        window.dispatchEvent(event);
+    </script>
+    <!-- START Rakuten Marketing Tracking -->
+    <script type="text/javascript">
+    (function (url) {
+      /*Tracking Bootstrap Set Up DataLayer objects/properties here*/
+      if(!window.DataLayer){
+        window.DataLayer = {};
+      }
+      if(!DataLayer.events){
+        DataLayer.events = {};
+      }
+      DataLayer.events.SPIVersion = DataLayer.events.SPIVersion || "3.4.1";
+      DataLayer.events.SiteSection = "1";
+
+      var loc, ct = document.createElement("script");
+      ct.type = "text/javascript";
+      ct.async = true; ct.src = url; loc = document.getElementsByTagName('script')[0];
+      loc.parentNode.insertBefore(ct, loc);
+      }(document.location.protocol + "//tag.rmp.rakuten.com/124439.ct.js"));
+    </script>
+    <!-- END Rakuten Marketing Tracking -->
+    <!-- BEGIN CJ TRACKING CODE -->
+    <script type='text/javascript'>
+        (function(a,b,c,d){
+        a='https://www.mczbf.com/tags/244454330028/tag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;
+        d.type='text/java'+c;d.async=true;
+        d.id='cjapitag';
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a)
+        })();
+    </script>
+    <!-- END CJ TRACKING CODE -->
+
+    <!-- SHARE A SALE TRACKING -->
+    <script src="https://www.dwin1.com/19038.js" type="text/javascript" defer="defer"></script>
+    <!-- END SHARE A SALE TRACKING -->
+            <!-- Hotjar Tracking Code for www.learnworlds.com -->
+        <script>(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:356671,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script>
+
+    <link rel="icon" href="/app/uploads/2015/10/cropped-footer-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="/app/uploads/2015/10/cropped-footer-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/app/uploads/2015/10/cropped-footer-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="/app/uploads/2015/10/cropped-footer-logo-270x270.png" />
+<style type="text/css" id="wp-custom-css">.jp-relatedposts {
+display: none!important;
+}
+.post-content h3 {
+    font-size: 18px;
+}
+.bctt-ctt-text a {
+	font-size: 17px !important;
+	font-family: latoregular,fira_sansregular !important;
+	font-style: normal;
+	display: block;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+a.bctt-ctt-btn {
+	font-family: latoregular,fira_sansregular !important;
+	font-size: 13px !important;
+	font-weight: normal;
+	font-style: normal;
+}
+.bctt-click-to-tweet {
+	padding: 10px;
+}
+div.jx-slider {
+    color: #0395f3 !important;
+ }
+
+
+
+
+    .-blogpost.post-9461 .blog-post-cover {
+       display: none;
+    }</style></head>
+<body class="home page-template page-template-template-landing page-template-template-landing-php page light-theme">
+
+    <!--
+    <a class="lw-sect -funding-topbar" href="https://summit.learnworlds.com/" target="_blank">
+        <span class="lw-sect-content wide-topbar">
+            <span class="va-c jc-c h-full flex-wrapper" style="padding: 0 5px;">
+                <img class="mr-1rem -funding-topbar-icon hide-below-480" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/WOL-logo.svg"/>
+                <div class="va-c jc-c h-full flex-wrapper" style="padding: 7px 0;">
+                    <span class="lw-txt lw-txt-s mb-0 lw-text-color-fadeout20" style="line-height: 1.2; text-align: left;">
+                        <span class="hide-below-580">Join 1000's of Creators & Coaches</span>
+                        <span class="hide-above-581">Join us</span>
+                        <span class="bold">LIVE @ Worlds of Learning</span>
+                    </span>
+                    <span class="ml-1rem lw-btn lw-btn-rounded lw-btn-xs nowrap" style="background-color: white; color: black;">Register for FREE</span>
+                </div>
+            </span>
+        </span>
+    </a>
+    -->
+
+    <!--
+    <a class="lw-sect -funding-topbar" href="https://www.learnworlds.com/next-level-academy-unwrapped/" target="_new">
+        <span class="lw-sect-content wide-topbar">
+            <span class="va-c jc-c h-full flex-wrapper">
+                <img class="mr-1rem -funding-topbar-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/fire-icon.png"/>
+                <span class="lw-txt lw-txt-s mb-0 lw-text-color-fadeout20" style="line-height: 1.2;">
+                    <span class="bold hide-below-580">Explosive Capabilities!</span>
+                    <span class="hide-below-768" style="opacity: 0.75;">Join us for the</span>
+                    <span class="hide-below-768" style="opacity: 0.75;"> online launch event.</span>
+                    <span class="hide-above-581" style="opacity: 0.75;">New Explosive Capabilities! Live Event.</span>
+                    <span class="hide-above-769 hide-below-580" style="opacity: 0.75;">Live Event.</span>
+                    <span class="bold hide-below-580">July 14 at 6pm BST / 1pm EDT</span>
+                    <span class="bold hide-above-581" style="text-align: left; display: block;">July 14 at 6pm BST / 1pm EDT</span>
+                </span>
+                <span class="lw-txt lw-txt-s mb-0 ml-1rem lw-brand-accent2-text hide-below-620" style="opacity: 0.75;">Register now!</span>
+            </span>
+        </span>
+    </a>
+    -->
+
+
+    <!--
+    <a class="lw-sect -funding-topbar" href="https://www.learnworlds.com/learnworlds-closes-32m-in-growth-funding-from-insight-partners/" target="_new">
+        <span class="lw-sect-content wide-topbar">
+            <span class="va-c jc-c h-full flex-wrapper">
+                <img class="mr-1rem -funding-topbar-icon hide-below-768" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/rocket.png"/>
+                <span class="lw-txt lw-txt-s mb-0 lw-text-color-fadeout20">
+                    <span class="lw-txt-m bold hide-below-768">We are growing...</span>
+                    <span>LearnWorlds announces</span>
+                    <span class="lw-txt-m bold">$32M</span>
+                    <span class="">in Growth Funding</span>
+                    <span class="lw-txt-m bold hide-below-620">from Insight Partners!</span>
+                </span>
+                <span class="lw-txt lw-txt-s mb-0 ml-1rem lw-brand-accent2-text hide-below-480">Read more...</span>
+            </span>
+        </span>
+    </a>
+    -->
+    
+
+
+    <!--
+    <a class="lw-sect -funding-topbar" href="customer-education-blueprint/" target="_new">
+        <span class="lw-sect-content wide-topbar">
+            <span class="va-c jc-c h-full flex-wrapper">
+                <img class="mr-1rem -funding-topbar-icon hide-below-768" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/rocket.png"/>
+                <span class="lw-txt lw-txt-s mb-0 lw-text-color-fadeout20">
+                    <span class="hide-below-480">Our <span class="bold">next event</span> is on</span>
+                    <span class="hide-below-768">how to build </span>
+                    <span class="hide-below-960">and scale </span>
+                    <span class="hide-below-480">a high-impact </span>
+                    <span class="bold hide-below-480">customer education</span>
+                    <span class="hide-below-768">program</span>
+                    <span class="hide-below-480" style="margin-left: -3px;">. Join us!</span>
+
+                    <span class="hide-above-481">Join the free event on <span class="bold">customer education</span>!</span>
+                </span>
+            </span>
+        </span>
+    </a>
+    -->
+
+    <header class="site-header lw-sect">
+        <div class="lw-sect-content wide-topbar">
+            <div class="site-header__container">
+                <div class="site-header__branding mr-2rem mr-0-below-768">
+                    <a href="https://www.learnworlds.com/" title="Learnworlds home"
+                       class="v-middle">
+                        <img class="lw-topbar-logo"
+                             src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logo.svg"
+                             alt="Learnworlds home page"/>
+                    </a>
+                </div>
+                <div class="site-header__burger-btn">
+                    <a href="/getstarted"
+                       class="v-middle js-get-started-free lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-s nowrap mr-1rem hide-above-961 js-t-getstarted"
+                       data-context="topbar"
+                       title="Start your demo with LearnWorlds">
+                        Get Started<span class="hide-below-480"> Free</span>
+                    </a>
+                    <button class="burger-btn js-toggle-menu-btn" type="button">
+                        <span class="bar"></span>
+                        <span class="bar"></span>
+                        <span class="bar"></span>
+                        <span class="screen-reader-text">Toggle Menu</span>
+                    </button>
+                </div>
+                <div class="site-header__menu">
+                    <nav class="navbar">
+                        <ul id="menu-top" class="header-nav-menu header-main-menu"><li class="active menu-home nav-menu-item"><a title="Learnworlds home" href="https://www.learnworlds.com/" aria-current="page" class=" nav-menu-link">Home</a></li>
+<li class="dropdown-toggle megamenu dropdown menu-features nav-menu-item"><a data-toggle="dropdown" data-target="#" href="https://www.learnworlds.com/learning-experience/" class="dropdown-toggle  nav-menu-link">Features <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-build-awesome-courses nav-menu-item"><a href="https://www.learnworlds.com/learning-experience/" class=" nav-menu-link">Build awesome courses<p class="menu-item-description">Capture attention, increase engagement, improve learning efficiency.</p></a></li>
+	<li class="menu-market-and-sell-courses nav-menu-item"><a href="https://www.learnworlds.com/marketing-tools/" class=" nav-menu-link">Market and Sell courses<p class="menu-item-description">All marketing tools for getting more leads, revenues and repeated sales.</p></a></li>
+	<li class="menu-create-school-website nav-menu-item"><a href="https://www.learnworlds.com/school-website/" class=" nav-menu-link">Create School Website<p class="menu-item-description">Delight your students with the look &#038; feel of your online school.</p></a></li>
+	<li class="menu-reports-insights nav-menu-item"><a href="https://www.learnworlds.com/reports-center/" class=" nav-menu-link">Reports &#038; Insights<p class="menu-item-description">Optimize your business with data-driven decision making.</p></a></li>
+	<li class="menu-build-mobile-app nav-menu-item"><a href="https://www.learnworlds.com/mobile-app/" class=" nav-menu-link">Build Mobile App<p class="menu-item-description">Unlock the power of mobile with in-app purchases and push notifications.</p></a></li>
+	<li class="menu-custom-user-roles nav-menu-item"><a href="https://www.learnworlds.com/custom-user-roles/" class=" nav-menu-link">Custom User Roles<p class="menu-item-description">Streamline collaboration for your school by flexibly assigning permissions to team members.</p></a></li>
+</ul>
+</li>
+<li class="dropdown-toggle megamenu megamenu-wide dropdown menu-examples nav-menu-item"><a data-toggle="dropdown" data-target="#" href="https://www.learnworlds.com/calisthenics/" class="dropdown-toggle  nav-menu-link">Examples <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="case-study thumb-calisthenics label-acc2a menu-calisthenics-how-to-create-successful-online-coaching-school nav-menu-item"><a href="https://www.learnworlds.com/calisthenics/" class=" nav-menu-link">Calisthenics – How to create successful online coaching school<p class="menu-item-description">Teaching Calisthenics to more than 40k users in less than a year</p></a></li>
+	<li class="case-study thumb-nailarts label-acc4b menu-nailarts-irina-markova-from-a-nail-art-trainer-to-a-course-creator nav-menu-item"><a href="https://www.learnworlds.com/nailarts/" class=" nav-menu-link">nailArts Irina Markova – From a nail art trainer to a course creator<p class="menu-item-description">Achieving better work-life balance by going online</p></a></li>
+	<li class="case-study thumb-pause label-acc5 menu-pauseplatform-supplementing-offline-coaching-with-online-courses nav-menu-item"><a href="https://www.learnworlds.com/pause-platform/" class=" nav-menu-link">PausePlatform – Supplementing offline coaching with online courses<p class="menu-item-description">How an online school augments an already great customer base</p></a></li>
+	<li class="case-study thumb-learning label-acc3a menu-learning-liaisons-training-teachers-online-for-exam-prep nav-menu-item"><a href="https://www.learnworlds.com/learning-liaisons/" class=" nav-menu-link">Learning Liaisons – Training teachers online for exam prep<p class="menu-item-description">A University professor unveils his Three Secrets to Success</p></a></li>
+	<li class="case-study thumb-improvpiano label-acc6 menu-improvpianotips-how-nikolas-monetized-his-youtube-following nav-menu-item"><a href="https://www.learnworlds.com/improvpiano/" class=" nav-menu-link">ImprovPianoTips – How Nikolas monetized his YouTube following<p class="menu-item-description">Teaching Music to adults in a novel way</p></a></li>
+	<li class="case-study thumb-droneit label-acc3b menu-droneit nav-menu-item"><a href="https://www.learnworlds.com/droneit/" class=" nav-menu-link">Droneit<p class="menu-item-description">Turning a hobby into a regulated, licence delivering online academy</p></a></li>
+</ul>
+</li>
+<li class="menu-pricing nav-menu-item"><a href="https://www.learnworlds.com/pricing/" class=" nav-menu-link">Pricing</a></li>
+<li class="menu-blog nav-menu-item"><a href="https://www.learnworlds.com/blog/" class=" nav-menu-link">Blog</a></li>
+<li class="dropdown-toggle megamenu dropdown menu-resources nav-menu-item"><a data-toggle="dropdown" data-target="#" href="https://www.learnworlds.com/academy/" class="dropdown-toggle  nav-menu-link">Resources <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-learnworlds-academy nav-menu-item"><a href="https://www.learnworlds.com/academy/" class=" nav-menu-link">LearnWorlds Academy<p class="menu-item-description">The best place to start learning about how to monetize your knowledge and how to teach online.</p></a></li>
+	<li class="menu-daily-webinars nav-menu-item"><a href="https://www.learnworlds.com/daily-webinars/" class=" nav-menu-link">Daily Webinars<p class="menu-item-description">Join one of our 8 live daily webinars. Discover what our platform can do for you and talk with us.</p></a></li>
+	<li class="menu-free-ebooks-checklists nav-menu-item"><a href="https://www.learnworlds.com/resources/" class=" nav-menu-link">Free Ebooks &#038; Checklists<p class="menu-item-description">More than 10 free ebooks for a quick intro to the elearning industry.</p></a></li>
+	<li class="menu-help-center nav-menu-item"><a href="https://support.learnworlds.com" class=" nav-menu-link">Help Center<p class="menu-item-description">Search 500+ articles explaining how to optimize your LearnWorlds school.</p></a></li>
+</ul>
+</li>
+</ul>                        <ul class="header-nav-menu header-supplementary-menu">
+                            <li class="nav-menu-item -gs-menu-item with-flexible-parts align-center justify-center">
+                                <a href="/getstarted"
+                                   class="-gs-link js-get-started-free lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-s nowrap js-t-getstarted"
+                                   data-context="topbar"
+                                   title="Start your demo with LearnWorlds">
+                                    Get Started Free
+                                </a>
+                            </li>
+                            <li class="nav-menu-item -login-menu-item">
+                                <a href="https://account.learnworlds.com/login"
+                                   class="-login-btn nav-menu-link js-login-button"
+                                   title="Login to your LearnWorlds account">
+                                    <span class="lw-btn lw-btn-rounded lw-btn-outline-dark lw-btn-s nowrap">Login</span>
+                                </a>
+                            </li>
+                            <li class="-login-menu-wrapper dropdown-toggle nav-menu-item js-profile-topbar"
+                                style="display: none;">
+                                <a href="#" class="js-login-button-text nowrap nav-menu-link" data-toggle="dropdown"><span>My schools</span> <b class="caret"></b></a>
+                                <ul class="-login-menu js-login-list dropdown-menu">
+                                    <li class="login-menu-item nav-menu-item">
+                                        <a class="login-menu-link js-account-logout nav-menu-link"
+                                           href="https://account.learnworlds.com/logout?redirectUrl=https%3A%2F%2Fwww.learnworlds.com">
+                                            Sign out
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+                            <div class="-webinar-topbar va-c jc-c flex-wrapper">
+        <div class="lw-txt lw-text-color-fadeout20 lw-txt-s mb-0 ml-20rem m0-below-620 relative">
+            <div class="webinars-team hide-below-620"></div>
+            <span class="bold hide-below-480">We've got the answers! </span>
+            <span>Join one of our 9 live daily webinars <span class="hide-below-480">to learn more!</span></span>
+        </div>
+        <a href="https://www.learnworlds.com/daily-webinars/"
+           data-t-type="Webinar"
+           data-context="Webinar bottom bar"
+           class="ml-1rem lw-btn lw-btn-rounded lw-btn-solid-accent3 lw-btn-xs nowrap with-arrow js-t-cta-link">
+            <span>Reserve your Spot!</span>
+            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" class="anim-arrow ml-1rem">
+        </a>
+    </div>
+    </header>
+<div class="wrap container" role="document">
+    <div class="content clearfloat row">
+        <main class="main" role="main">
+            <section class="lw-sect lw-size-m lw-align-l pt-5rem-below-768 pb-7rem-below-480 overflow-hidden">
+
+    <div class="lw-sect-content wide">
+
+        <div class="lw-cols stretch multiple-rows valign-center">
+            <div class="col span_5_of_12 flex-item span_12-below-768">
+                <h1>Create and sell <span class="highlighted-text-acc1">online courses</span> from your own website</h1>
+                <div class="lw-txt lw-txt-l lw-text-color-fadeout20">The best online course platform for creating, selling and promoting your online courses. Start monetizing your skills, experiences and your audience.</div>
+                
+                <!--
+                <div class="lw-cols with-input-cols stretch one-row">
+                    <div class="col span_10_of_12 no-padding flex-item flexible mr-1rem dummy-input-wrapper lw-dark-text">
+                        <input type="text" class="h-full lw-input-outline-dark lw-input-rounded lw-input lw-input-normal js-toggle-form-popup" placeholder="Enter your email here" readonly />
+                    </div>
+                    <div class="col span_2_of_12 no-padding flex-item flexible">
+                        <div class="lw-btn-wrapper lw-align-c-below-480">
+                            <button class="lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap js-toggle-form-popup">
+                                <span>Get Started<span class="hide-below-480"> Free</span></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                -->
+
+                <div class="flex-wrapper flex-wrap va-c mw-400 justify-center-below-480">
+                    <button class="lw-btn lw-btn-rounded fg-1 with-arrow lw-btn-shadow lw-btn-solid-darkblue mb-1rem lw-btn-m nowrap js-toggle-form-popup">
+                        <span>Start free trial!</span>
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" class="anim-arrow ml-1rem">
+                    </button>
+
+                    <a href="/watch-demo"
+                        class="lw-btn lw-btn-rounded fg-1 mr-1rem ml-1rem lw-btn-shadow lw-btn-outline-darkblue mb-1rem lw-btn-m nowrap js-t-cta-link"
+                        data-t-type="Watch a demo link"
+                        data-context="Homepage - hero"
+                    >
+                        <span>Watch a demo</span>
+                    </a>
+                </div>
+
+            </div>
+            <div class="col span_7_of_12 flex-item span_12-below-768">
+                <div class="with-svg-bg landing-bg">
+                    <div class="first-section-window-wrapper">
+                        <ul class="first-section-window-menu">
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/dashboard.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/courses.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/course-player.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/video.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/learners.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/menu/pages.png" class="first-section-window-menu-item-icon"/>
+                            </li>
+                            <li class="first-section-window-menu-item selected"></li>
+                        </ul>
+                        <div class="first-section-window-imgs">
+                            
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/dashboard.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/dashboard.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/dashboard.jpg">
+                            </picture>
+
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/courses.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/courses.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/courses.jpg">
+                            </picture>
+
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course-player.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course-player2.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course-player2.jpg">
+                            </picture>
+
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/video-authoring.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/video-authoring.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/video-authoring.jpg">
+                            </picture>
+
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learners.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learners.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learners.jpg">
+                            </picture>
+
+                            <picture class="first-section-window-img">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course.webp" type="image/webp">
+                                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course.jpg" type="image/jpg">
+                                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/course.jpg">
+                            </picture>
+                        
+                        </div>
+                        <button class="video-play-btn yellow js-video-popup-open" data-video-id="ekt0fppbg0" data-video-provider="wistia"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<section class="lw-sect lw-size-s no-padding-top no-padding-bottom lw-align-l">
+    <div class="lw-sect-content wide">
+        <div class="lw-cols mb-3rem lw-align-l valign-center">
+            <div class="col mb-0 flex-item span_2_of_12 non-flexible span_12-below-768 lw-align-c-s mb-1rem-below-768 lw-align-c-below-768">
+                <div class="lw-txt lw-text-color-fadeout50 lw-txt-s mb-0 semi-bold">Featured in</div>
+            </div>
+            <div class="col mb-0 flex-item span_10_of_12 non-flexible span_12-below-768">
+                <div class="cells">
+                    <div class="cell one-fifth v-middle p-3rem span_4-below-768">
+                        <div class="forbes-logo lw-logo lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fifth v-middle p-3rem span_4-below-768">
+                        <div class="mit-logo lw-logo lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fifth v-middle p-3rem hide-below-768">
+                        <div class="edtech-logo lw-logo lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fifth v-middle p-3rem span_4-below-768">
+                        <div class="neilpatel-logo lw-logo lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fifth v-middle p-3rem hide-below-768">
+                        <div class="industry-logo lw-logo lw-sprite"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="lw-sect lw-light-bg lw-size-m pb-5rem lw-align-l">
+    <div class="lw-sect-content wide">
+        <div class="col span_7_of_12 span_12-below-768">
+            <h2>Craft Learning Experiences your <span class="highlighted-text-acc1">Customers will Love</span></h2>
+            <div class="lw-txt lw-txt-l lw-text-color-fadeout20">Boost usage, satisfaction and retention for professional and compliance training, coaching, continuing education, and employee/customer onboarding.</div>
+        </div>
+        <div class="lw-cols stretch multiple-rows">
+            <div class="col span_7_of_12 span_12-below-768 no-padding flex-item">
+                <div class="lw-cols stretch lw-align-l multiple-rows">
+                    <div class="col flex-item span_6_of_12 non-flexible span_12-below-480">
+                        <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon1.svg" />
+                        <h3>Engaging and effective training</h3>
+                        <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Engage learners with interactive videos, ebooks, 1:1 & group sessions, assessments, certificates, SCORMs, surveys, and much more.</div>
+                    </div>
+                    <div class="col flex-item span_6_of_12 non-flexible span_12-below-480">
+                        <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon2.svg"/>
+                        <h3>The most versatile course experience</h3>
+                        <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Beautiful themes for your course player and flexibility for free, paid, private, drip-fed or curated course pathways.</div>
+                    </div>
+                    <div class="col flex-item span_6_of_12 non-flexible span_12-below-480">
+                        <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon3.svg"/>
+                        <h3>Re-imagined interactive video learning</h3>
+                        <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Effortlessly convert your videos into exceptional experiences with automatically extracted transcripts, quizzes, and tables of contents.</div>
+                    </div>
+                    <div class="col flex-item span_6_of_12 non-flexible span_12-below-480">
+                        <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon4.svg"/>
+                        <h3>Promote the social talk</h3>
+                        <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Nurture your community and create lasting relationships with a social-first training school.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col span_5_of_12 hide-below-768 flex-item row-sb">
+                <div class="lw-screen-wrapper lw-element full">
+                    <div class="lw-screen-content lw-align-c mb-5rem">
+                        <picture>
+                            <source class="shadow-black" srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learning-experiences.webp" type="image/webp">
+                            <source class="shadow-black" srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learning-experiences.png" width="450" height="372" type="image/png">
+                            <img class="shadow-black" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/learning-experiences.png" width="450" height="372" alt="Craft learning experiences">
+                        </picture>
+                        <button class="video-play-btn green js-video-popup-open" data-video-id="um8gkbommv" data-video-provider="wistia"></button>
+                    </div>
+                    <div class="lw-txt lw-align-c lw-txt-s lw-dark-text">
+                        <a class="flex a-i-c j-c-c lw-dark-text js-video-popup-open" data-video-id="um8gkbommv" data-video-provider="wistia">
+                            <svg version="1.1" style="width: 27px; margin-right: 7px;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 142.448 142.448" xml:space="preserve">
+                                <g>
+                                    <path style="fill:#1D1D1B;" d="M142.411,68.9C141.216,31.48,110.968,1.233,73.549,0.038c-20.361-0.646-39.41,7.104-53.488,21.639
+                                        C6.527,35.65-0.584,54.071,0.038,73.549c1.194,37.419,31.442,67.667,68.861,68.861c0.779,0.025,1.551,0.037,2.325,0.037
+                                        c19.454,0,37.624-7.698,51.163-21.676C135.921,106.799,143.033,88.377,142.411,68.9z M111.613,110.336
+                                        c-10.688,11.035-25.032,17.112-40.389,17.112c-0.614,0-1.228-0.01-1.847-0.029c-29.532-0.943-53.404-24.815-54.348-54.348
+                                        c-0.491-15.382,5.122-29.928,15.806-40.958c10.688-11.035,25.032-17.112,40.389-17.112c0.614,0,1.228,0.01,1.847,0.029
+                                        c29.532,0.943,53.404,24.815,54.348,54.348C127.91,84.76,122.296,99.306,111.613,110.336z"></path>
+                                    <path style="fill:#1D1D1B;" d="M94.585,67.086L63.001,44.44c-3.369-2.416-8.059-0.008-8.059,4.138v45.293
+                                        c0,4.146,4.69,6.554,8.059,4.138l31.583-22.647C97.418,73.331,97.418,69.118,94.585,67.086z"></path>
+                                </g>
+                            </svg>
+                            Watch building features in action!
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="lw-sect lw-size-m lw-align-l pb-0">
+    <div class="lw-sect-content wide">
+        <div class="col span_6_of_12 span_12-below-768">
+            <h2>Build a <span class="highlighted-text-acc2">high-converting</span> website for your school</h2>
+        </div>
+        <div class="lw-cols stretch multiple-rows mb-0">
+            <div class="col span_4_of_12 hide-below-768 flex-item pl-2rem">
+                <div class="lw-txt lw-txt-vl with-check large">
+                    Super Easy
+                </div>
+                <div class="lw-txt lw-txt-vl with-check large">
+                    Fast
+                </div>
+                <div class="lw-txt lw-txt-vl with-check large">
+                    Flexible
+                </div>
+                <div class="lw-txt lw-txt-vl with-check large">
+                    Beautiful
+                </div>
+                <div class="lw-txt lw-txt-vl with-check large">
+                    Branded
+                </div>
+                <div class="lw-txt lw-txt-vl with-check large">
+                    SEO-optimized
+                </div>
+            </div>
+            <div class="col span_4_of_12 flex-item pr-40 span_6-below-768 span_12-below-480 mb-8rem-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon5.svg"/>
+                <h3>Create pages quickly</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m mb-3rem">Intuitive drag and drop block-based builder. Choose between hundreds of templates and create high-converting landing pages.</div>
+                <a href="/getstarted" class="lw-btn lw-btn-rounded lw-btn-outline-dark with-arrow lw-btn-m w-full nowrap js-t-getstarted">
+                    <span>Build a beautiful school
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right.svg" class="anim-arrow ml-1rem">
+                    </span>
+                </a>
+            </div>
+            <div class="col span_4_of_12 flex-item pr-40 span_6-below-768 span_12-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon6.svg" style="padding: 5px 0;"/>
+                <h3>Magic beauty</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m mb-3rem">Write your content once and cycle automatically through dozens of different designs to select the one for the goal at hand.</div>
+                <a href="/getstarted" class="lw-btn lw-btn-rounded lw-btn-outline-dark with-arrow lw-btn-m w-full nowrap js-t-getstarted">
+                    <span>See it in action
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right.svg" class="anim-arrow ml-1rem">
+                    </span>
+                </a>
+            </div>
+        </div>
+        <div class="lw-align-c white-fade-up mb-5rem mt-10rem mt-5rem-below-768">
+            <div class="templates-card">
+                <div class="templates-card-lbl">
+                    <div class="lw-txt lw-txt-vl semi-bold lw-align-l lw-align-c-below-768 mb-0">...with hundreds of eye-catching templates</div>
+                </div>
+                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_down.svg">
+            </div>
+            <picture>
+                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/templates.webp" type="image/webp">
+                <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/templates.jpg" width="1160" height="675" type="image/jpg">
+                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/templates.jpg" width="1160" height="675" alt="Hundreds of eye-catching templates">
+            </picture>
+        </div>
+    </div>
+</section>
+<section class="lw-sect no-padding-top no-padding-bottom lw-align-c mb-5rem">
+     <div class="lw-sect-content wide">
+          <div class="lw-txt lw-text-color-fadeout50 lw-txt-s lw-align-c mb-0 semi-bold">Trusted by</div>
+          <div class="cells opac-05 grayscale">
+               <div class="cell one-seventh v-middle p-3rem hide-below-768">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-codefresh.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-codefresh.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-codefresh.png" title="Codefresh" alt="Codefresh">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem hide-below-1024">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-barbizon.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-barbizon.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-barbizon.png" title="Barbizon" alt="Barbizon">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem hide-below-1024">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-awny.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-awny.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-awny.png" title="Advertising Week" alt="Advertising Week">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem hide-below-1024">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-fub.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-fub.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-fub.png" title="University of Berlin" alt="University of Berlin">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem span_4-below-768">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-sendinblue.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-sendinblue.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo_vertical-sendinblue.png" title="Sendinblue" alt="Sendinblue">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem span_4-below-768">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-euronews.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-euronews.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-euronews.png" title="EuroNews" alt="EuroNews">
+                    </picture>
+               </div>
+               <div class="cell one-seventh v-middle p-3rem span_4-below-768">
+                    <picture>
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-adidasbb.webp" type="image/webp">
+                         <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-adidasbb.png" type="image/png">
+                         <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logos/logo-adidasbb.png" title="Adidas Breaking Barriers" alt="Adidas Breaking Barriers">
+                    </picture>
+               </div>
+          </div>
+     </div>
+</section><section class="lw-sect lw-size-m lw-align-l pb-5rem">
+    <div class="lw-sect-content wide area-chart-bg">
+        <div class="col span_9_of_12 span_12-below-768">
+            <h2>Set up <span class="highlighted-text-acc1">profitable Marketing Funnels</span> and increase your ROI</h2>
+            <div class="lw-txt lw-txt-l lw-text-color-fadeout20">Build a successful online business with a fully e-commerce enabled platform.</div>
+        </div>
+
+        <div class="lw-cols stretch lw-align-l multiple-rows mt-10rem mt-0-below-620">
+            <div class="col flex-item mb-1rem span_6_of_12 non-flexible pr-140 pr-0-below-768 span_12-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon7.svg"/>
+                <h3>Sell online Courses, Bundles and Memberships</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">A powerful sales engine, with advanced pricing options for all kinds of digital products. Optimized for capturing leads and selling courses.</div>
+            </div>
+            <div class="col flex-item mb-1rem span_6_of_12 non-flexible pr-140 pr-0-below-768 span_12-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon8.svg"/>
+                <h3>Upsell and cross-sell with promotions, coupons and payment plans</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Upsell and cross-sell with irresistible offers, high-converting sales pages, 1-click funnels and customizable checkout experiences.</div>
+            </div>
+            <div class="col flex-item mb-1rem-below-480 span_6_of_12 non-flexible pr-140 pr-0-below-768 span_12-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon9.svg"/>
+                <h3>Α true White Label course platform</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Use your own domain name, imprint your brand identity, take full control of the customer experience.</div>
+            </div>
+            <div class="col flex-item span_6_of_12 non-flexible pr-140 pr-0-below-768 span_12-below-480">
+                <img class="lw-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon10.svg"/>
+                <h3>Connect your entire marketing stack seamlessly</h3>
+                <div class="lw-txt lw-text-color-fadeout20 lw-txt-m">Integrations with the top marketing tools of the trade used by the best Course Sellers.</div>
+            </div>
+        </div>
+        
+    </div>
+</section><section class="lw-sect lw-size-m mt-0-below-768 mt-5rem pb-5rem-below-768 pt-7rem-below-768 pb-10rem mb-7rem mb-0-below-768 lw-align-l">
+
+<!--     <svg preserveAspectRatio="none" height="80" viewBox="0 0 1258 131" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg-shape top hide-below-768" style="top: 55px;">
+        <rect width="1258" height="94" fill="white"/>
+        <path d="M1258 9.00026C1258 9.00026 1164 59.1026 943.5 76.4648C565.5 106.229 402.5 9.00026 6.89477e-06 29.0001L0 107.867L1258 107.867L1258 9.00026Z" fill="#f7f7f7"/>
+    </svg> -->
+
+    <div class="lw-sect-content wide">
+        <div class="lw-cols main multiple-rows valign-center mb-0">
+            <div class="col flex-item span_4_of_12 mb-0 span_12-below-768">
+                <h2><span class="highlighted-text-acc1">Integrate</span> with your favorite tools</h2>
+                <div class="lw-txt lw-element lw-txt-l lw-text-color-fadeout20">Connect your school with virtual infinite marketing and affiliate tools and increase your sales! <a href="/integrations" class="lw-brand-accent2-text">See all available integrations</a></div>
+                <div class="lw-align-c-below-768">
+                    <a href="/getstarted" class="lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap js-t-getstarted">
+                        Try it for free
+                    </a>
+                </div>
+            </div>
+            <div class="col flex-item no-padding mb-0 span_8_of_12 mt-5rem-below-768 span_12-below-768">
+                <div class="cells">
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="zapier-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="zoom-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="webex-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="mailchimp-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="aweber-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="active-campaign-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="convertkit-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="google-analytics-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="google-tag-manager-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="mixpanel-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="facebook-pixel-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="intercom-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="calendly-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="hubspot-logo grayscale lw-sprite"></div>
+                    </div>
+                    <!--
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="referral-candy-logo grayscale lw-sprite"></div>
+                    </div>
+                    -->
+                    <div class="cell one-fourth p-2rem-1rem hide-below-768">
+                        <div class="zendesk-logo grayscale lw-sprite"></div>
+                    </div>
+                    <div class="cell one-fourth p-2rem-1rem">
+                        <div class="freshdesk-logo grayscale lw-sprite"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <svg preserveAspectRatio="none" height="522" viewBox="0 0 933 522" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg-shape bottom hide-below-768" style="top: -86px; right: 0; left: 38%; width: 62%; height: 500px;">
+        <path d="M934 663C934 504.697 934 163.335 934 4.08113e-05C657.865 13.9873 594.767 119.422 292.304 119.422C-40.0781 119.422 -23.4448 354.879 30.4277 449.321C129.5 623 478.5 684.5 934 663Z" fill="#F7F7F7"/>
+    </svg>
+
+<!--     <svg preserveAspectRatio="none" height="80" viewBox="0 0 1258 131" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg-shape bottom hide-below-768" style="bottom: -36px;">
+        <rect width="1258" height="94" fill="#f7f7f7"/>
+        <path d="M1258 9.00026C1258 9.00026 1164 59.1026 943.5 76.4648C565.5 106.229 402.5 9.00026 6.89477e-06 29.0001L0 107.867L1258 107.867L1258 9.00026Z" fill="white"/>
+    </svg> -->
+
+</section>
+
+
+
+<section class="lw-sect lw-size-m lw-align-l">
+    <div class="lw-sect-content wide">
+        
+        <div class="lw-cols stretch valign-bottom multiple-rows mb-0">
+            <div class="col span_6_of_12 span_12-below-768 mb-8rem-below-768 flex-item">
+
+                <h2>Build your own <span class="highlighted-text-acc2">branded mobile app</span> for your school</h2>
+                <div class="lw-txt lw-txt-l mb-2_5rem lw-text-color-fadeout20">Unlock the power of mobile to boost your business, reach more audiences, and engage your students even more.</div>
+
+                <div class="lw-txt with-check normal mb-1rem">
+                    100% White-label
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    No-Coding Required 
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    Visual Editor
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    In-App Purchases
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    Push notifications
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    iOS & Android native
+                </div>
+                <button class="lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-l nowrap w-300 w-full-below-620 mt-2rem js-toggle-form-popup">
+                    <span>Go Mobile</span>
+                </button>
+            </div>
+            <div class="col span_6_of_12 flex-item pr-40 span_12-below-768">
+                <div id="mobile-app-graphic" class="mt-7rem-below-768 w-70pc-below-768">
+                    <picture class="layer5 float1">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone1.webp" type="image/webp">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone1.png" type="image/png">
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone1.png" title="LearnWorlds mobile app" alt="LearnWorlds mobile app">
+                    </picture>
+                    <picture class="layer6 float2">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone2.webp" type="image/webp">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone2.png" type="image/png">
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-phone2.png" title="LearnWorlds mobile app" alt="LearnWorlds mobile app">
+                    </picture>
+                    <picture class="layer4 float3">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-icon.webp" type="image/webp">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-icon.png" type="image/png">
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-icon.png" title="LearnWorlds mobile app" alt="LearnWorlds mobile app">
+                    </picture>
+                    <picture class="layer3 slide-in1">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif1.webp" type="image/webp">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif1.png" type="image/png">
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif1.png" title="LearnWorlds mobile app" alt="LearnWorlds mobile app">
+                    </picture>
+                    <picture class="layer2 slide-in2">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif2.webp" type="image/webp">
+                        <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif2.png" type="image/png">
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-notif2.png" title="LearnWorlds mobile app" alt="LearnWorlds mobile app">
+                    </picture>
+                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-app-bg.svg" class="layer1"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="lw-sect lw-light-bg lw-size-m lw-align-l">
+    <div class="lw-sect-content wide">
+        
+        <div class="lw-cols stretch mt-5rem valign-bottom multiple-rows mb-0">
+
+            <div class="col span_6_of_12 flex-item pr-40 span_12-below-768">
+                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-user_roles.png">
+            </div>
+
+            <div class="col span_6_of_12 span_12-below-768 flex-item">
+
+                <h2><span class="highlighted-text-acc2">Tailor your school</span> to your organization</h2>
+                <div class="lw-txt lw-txt-l mb-2_5rem lw-text-color-fadeout20">With LearnWorlds Custom User Roles, you can scale when you decide, streamline every collaboration, and control access to your school with just a few clicks.</div>
+
+                <div class="lw-txt with-check normal mb-1rem">
+                    Get started with predefined user roles
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    Customize permission levels easily 
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    Collaborate smoothly with external partners
+                </div>
+                <div class="lw-txt with-check normal mb-1rem">
+                    Delegate with confidence while protecting sensitive content
+                </div>
+                
+                <button class="lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-l nowrap w-300 w-full-below-620 mt-2rem js-toggle-form-popup">
+                    <span>Start for free</span>
+                </button>
+            </div>
+            
+        </div>
+    </div>
+</section>
+<section class="lw-sect lw-size-m lw-size-m-below-768 pt-5rem pb-5rem-below-768 lw-align-l">
+    <div class="lw-sect-content wide">
+        <div class="lw-cols multiple-rows mt-5rem wrap-reverse-below-768">
+
+            <div class="col flex-item span_6_of_12 non-flexible span_12-below-768 mb-0-below-768">
+                <h2 class="mb-3rem">We are <span class="highlighted-text-acc2">with you</span> every step of the way</h2>
+                <div class="lw-txt lw-txt-l mb-3rem lw-text-color-fadeout20">360° Support, 24/7. We make sure you have everything you need to succeed as a trainer and edupreneur.</div>
+                <div class="hide-below-768 lw-text-color-fadeout20">
+                    <div class="lw-txt lw-txt-l mb-1rem with-check normal">
+                        Course Building Academy
+                    </div>
+                    <div class="lw-txt lw-txt-l mb-1rem with-check normal">
+                        Live Master Classes
+                    </div>
+                    <div class="lw-txt lw-txt-l mb-1rem with-check normal">
+                        Rich Blog
+                    </div>
+                    <div class="lw-txt lw-txt-l mb-1rem with-check normal">
+                        Free Resources Library
+                    </div>
+                    <div class="lw-txt lw-txt-l mb-1rem with-check normal">
+                        Help Center you can rely on
+                    </div>
+                    <div class="lw-txt lw-txt-l mb-0 with-check normal">
+                        Easy to love support agents :-)
+                    </div>
+                </div>
+            </div>
+
+            <div class="col flex-item span_6_of_12 non-flexible span_12-below-768">
+                <div class="lw-screen-content mt-1rem lw-AR-16-9 with-shadow mb-10rem mb-5rem-below-768 with-svg-bg landing-bg2 lw-photo11-bg lw-sprite">
+                    <button class="video-play-btn white js-video-popup-open" data-video-id="y1e8varo24" data-video-provider="wistia"></button>
+                </div>
+                <div class="lw-txt lw-align-c lw-txt-s lw-dark-text">
+                    <a class="lw-dark-text js-video-popup-open" data-video-id="y1e8varo24" data-video-provider="wistia">Watch video and meet some of us</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+<section class="lw-sect lw-size-m lw-align-l lw-light-bg">
+    <div class="lw-sect-content wide">
+        <div class="lw-cols stretch valign-center mb-0">
+            <div class="col span_6_of_12 flex-item span_12-below-768">
+                <h1>We've got the <span class="highlighted-text-acc1">answers!</span></h1>
+                <div class="lw-txt lw-txt-l lw-text-color-fadeout20">That's why we introduce <span class="bold">Daily Webinars</span> where experts walk you through strategies, techniques, and practical hands-on processes to grow your business.</div>
+                                    <a class="w-full-below-480 lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="/daily-webinars/">
+                        <span>View all Webinars</span>
+                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                    </a>
+                            </div>
+            <div class="col span_6_of_12 flex-item span_12-below-768">
+                <picture class="w-full m-auto" width="694" height="581">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/webinars-section-image.webp" type="image/webp">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/webinars-section-image.png" type="image/png">
+                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/webinars-section-image.png" title="LearnWorlds webinars" alt="LearnWorlds webinars">
+                </picture>
+            </div>
+        </div>
+                <div class="weekly-webinar-calendar-tabs js-tabs-element js-no-hover mt-5rem">
+            <div class="tabs-container">
+                                                            <div class="tab" data-tab-id="monday">
+                            <div class="faux-h3 mb-0">Monday</div>
+                        </div>
+                                                                                <div class="tab" data-tab-id="tuesday">
+                            <div class="faux-h3 mb-0">Tuesday</div>
+                        </div>
+                                                                                <div class="tab" data-tab-id="wednesday">
+                            <div class="faux-h3 mb-0">Wednesday</div>
+                        </div>
+                                                                                <div class="tab" data-tab-id="thursday">
+                            <div class="faux-h3 mb-0">Thursday</div>
+                        </div>
+                                                                                <div class="tab" data-tab-id="friday">
+                            <div class="faux-h3 mb-0">Friday</div>
+                        </div>
+                                                                                                                        </div>
+            <div class="tab-contents-container">
+                                                <div class="tab-contents" data-for-tab="monday">
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">5:00 AM PST / 8:00 AM EST / 2:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            You’ve Got Questions, We’ve Got the Answers!                                                                                    </div>
+                                                                        <h3 class="medium light">Live Q&A with LearnWorlds Support Team</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Got Questions? Need help setting up your payment gateway or your domain? Need help building your site or your course? We have the answers. Come and join us for a live Q&A session with members of the LearnWorlds Support team.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-julie.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Julie Tsavdari</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/live-qa-with-learnworlds-support-team/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">9:00 AM PST / 12:00 PM EST / 6:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            The LearnWorlds Site Builder                                                                                    </div>
+                                                                        <h3 class="medium light">How to Build Dynamic & Engaging Websites</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Your school's website acts as your online store-front, drawing in new users, generating leads, and showcasing your school's products. Join us for a deep dive into the awesome LearnWorlds site builder and learn everything you need to know about building engaging websites.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-brett.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Brett Hamilton</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Success Manager</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/how-to-build-dynamic-engaging-websites/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                                                                <div class="tab-contents" data-for-tab="tuesday">
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">3:00 AM PST / 6:00 AM EST / 12:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            Creating, Adding, & Configuring Course Content                                                                                    </div>
+                                                                        <h3 class="medium light">Course Building 101</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Your e-Teaching journey starts here!  No school is complete without the course content and materials needed to pass on to your students.  Learn how to build and configure e-courses like a pro using the LearnWorlds platform.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-eliza.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Eliza Cani</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/course-building-101/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">9:00 AM PST / 12:00 PM EST / 6:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            The LearnWorlds Platform                                                                                    </div>
+                                                                        <h3 class="medium light">A Complete Overview</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">LearnWorlds provides an all-in-one platform for the creation, hosting, and selling of online courses.  Join us for a complete overview of the platform and its features.  Learn how to navigate the admin menu, create courses, monitor a user’s progress, and much more!</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-brett.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Brett Hamilton</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Success Manager</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/a-complete-overview/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                                                                <div class="tab-contents" data-for-tab="wednesday">
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">9:00 AM PST / 12:00 PM EST / 6:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            You’ve Got Questions, We’ve Got the Answers!                                                                                    </div>
+                                                                        <h3 class="medium light">Live Q&A with LearnWorlds Support Team</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Got Questions? Need help setting up your payment gateway or your domain? Need help building your site or your course? We have the answers. Come and join us for a live Q&A session with members of the LearnWorlds Support team.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-julie.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Julie Tsavdari</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/live-qa-with-learnworlds-support-team/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">10:00 AM PST / 1:00 PM EST / 7:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            How to Build Your Branded Mobile App                                                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-new_yel.svg" alt="New webinar" />
+                                                                                    </div>
+                                                                        <h3 class="medium light">The LearnWorlds Mobile App Builder</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Unlock the power of mobile to elevate your online learning business with LearnWorlds' powerful and easy to use Mobile App Builder. Join us for an engaging step by step webinar to build your own mobile app for iOS and Android and learn everything you need to know in less than 30 minutes.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-eliza.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Eliza Cani</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/how-to-build-your-mobile-learning-app-2/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                                                                <div class="tab-contents" data-for-tab="thursday">
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">3:00 AM PST / 6:00 AM EST / 12:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            The LearnWorlds Platform                                                                                    </div>
+                                                                        <h3 class="medium light">A Complete Overview</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">LearnWorlds provides an all-in-one platform for the creation, hosting, and selling of online courses.  Join us for a complete overview of the platform and its features.  Learn how to navigate the admin menu, create courses, monitor a user’s progress, and much more!</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-brett.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Brett Hamilton</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Success Manager</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/a-complete-overview/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">9:00 AM PST / 12:00 PM EST / 6:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            Creating, Adding, & Configuring Course Content                                                                                    </div>
+                                                                        <h3 class="medium light">Course Building 101</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Your e-Teaching journey starts here!  No school is complete without the course content and materials needed to pass on to your students.  Learn how to build and configure e-courses like a pro using the LearnWorlds platform.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-eliza.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Eliza Cani</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/course-building-101/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                                                                <div class="tab-contents" data-for-tab="friday">
+                                                    <div class="lw-cols mb-0">
+                                <div class="col span_6_of_12 flex-item span_12-below-768 mb-0">
+
+                                    <div class="lw-txt lw-txt-m lw-text-color-fadeout50 bold mb-1rem">9:00 AM PST / 12:00 PM EST / 6:00 PM CET</div>
+                                                                            <div class="faux-h3 medium mb-0_5rem">
+                                            You’ve Got Questions, We’ve Got the Answers!                                                                                    </div>
+                                                                        <h3 class="medium light">Live Q&A with LearnWorlds Support Team</h3>
+                                    <p class="lw-txt lw-txt-m lw-text-color-fadeout20 mb-1rem">Got Questions? Need help setting up your payment gateway or your domain? Need help building your site or your course? We have the answers. Come and join us for a live Q&A session with members of the LearnWorlds Support team.</p>
+                                </div>
+
+                                <div class="col w-220 mb-0">
+                                                                                                                        <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/webinars/avatar-julie.jpg" alt="speaker image" class="avatar avatar-sm mr-1rem"/>
+                                                                                <p class="lw-txt lw-txt-m mb-1rem-below-768">
+                                                                                            <span class="bold">Julie Tsavdari</span><br/>
+                                                                                                                                        <span class="lw-text-color-fadeout20">Customer Support Specialist</span>
+                                                                                    </p>
+                                                                                                                <a class="read-more-link lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-m nowrap with-arrow" href="https://www.learnworlds.com/webinar/live-qa-with-learnworlds-support-team/">
+                                            <span>Book your seat</span>
+                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/icon-arrow_right_white.svg" alt="" class="anim-arrow ml-1rem" />
+                                        </a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                                                                                                </div>
+        </div>
+
+            </div>
+</section>
+<section class="lw-sect lw-photo7-bg with-inner-shadow lw-body-bg lw-size-m lw-align-c">
+    <div class="lw-sect-content wide">
+        <h2>LearnWorlds with your words<br>
+            <div class="-lw-adj-wrapper">
+                <div class="-lw-adjs lw-brand-accent3-text">
+                    <div class="lw-adj">#is awesome</div>
+                    <div class="lw-adj">#saved my life</div>
+                    <div class="lw-adj">#is the best</div>
+                    <div class="lw-adj">#has the best support</div>
+                    <div class="lw-adj">#has quality features</div>
+                    <div class="lw-adj">#is unexpected</div>
+                    <div class="lw-adj">#is truly social</div>
+                    <div class="lw-adj">#has unique features</div>
+                    <div class="lw-adj">#is totally flexible</div>
+                    <div class="lw-adj">#is awesome</div>
+                </div>
+            </div>
+        </h2>
+                <div class="-slideshow-wrapper mt-10rem mt-0-below-620">
+            <div class="slideshow testimonials-slick-slider js-testimonials-slider">
+                                                                                <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crowd.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">LearnWorlds is the best course sales software that provides students on time courses and manages all the issues related to course handling. It has a demo that can make the user feel confident when working.</div>
+                                                                                                    <h5 class="lw-align-l">- Ayesha Nasee</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">It took me a long time to find a great platform for my online schools. LearnWorlds is a robust platform that is very easy to use and setup and it is also affordable for those that are just getting started.</div>
+                                                                                                    <h5 class="lw-align-l">- D’Andrea Bolden Ministries</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">The TEAM behind LearnWorlds and the support they offer is what makes the difference.</div>
+                                                                                                    <h5 class="lw-align-l">- Ariane G</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">I am in love with this platform and I would never change them for another. I feel cared by the amazing support team that knows my name, my work, my problems and needs. They offered me attention and personalized tips. All that gave a big boost to my online school.</div>
+                                                                                                    <h5 class="lw-align-l">- Teya B.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">LearnWorlds will soon be recognised as the GLOBAL authority in online teaching... they stand out above the rest and their promises are REAL.</div>
+                                                                                                    <h5 class="lw-align-l">- AAW</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">The confidence I’ve gained in my business is priceless. No matter what issue I might have with my platform, the LearnWorlds Support Squad has my answer. When they say “customer service is their #1 goal” they truly mean it. I’ve never been disappointed.</div>
+                                                                                                    <h5 class="lw-align-l">- Missy C.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">I have used few other providers and wasn't satisfied until I found LearnWorlds. They have all the tools and easy to use interface to build your online school.</div>
+                                                                                                    <h5 class="lw-align-l">- Jonas K.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">I'd like to say that the support that we've been getting from LW since I got to know the platform is, until this moment, without any doubts one of the best customer services that I've experienced.</div>
+                                                                                                    <h5 class="lw-align-l">- Samir A.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crozdesk.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">Their in house video hosting platform is extremely easy to use, so there’s no need to get a platform like vimeo something that ultimately saves you money.</div>
+                                                                                                    <h5 class="lw-align-l">- Kenneth John</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">I can recommend LearnWorlds as a great tool to manage online courses, academy, accelerator or anything similar. The platform works well and has many adjustable features. The support is super fast and always helpful! 5/5</div>
+                                                                                                    <h5 class="lw-align-l">- Alona Belinska</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crowd.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">LearnWorlds is likely the most interactive learning system I have encountered. Thanks to greatly integrated video functionalities, gamification and personal notes/library there are immense opportunities to enhance the learning experience by creating engaging content.</div>
+                                                                                                    <h5 class="lw-align-l">- Epp Krusenvald</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">Before I committed, I decided to contact every elearning platform but honestly, no one beats what they offer. They are always on top of things and all the best features are always being added. The creators are so amazing, I can tell they work so so hard!</div>
+                                                                                                    <h5 class="lw-align-l">- Corine C.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">I was looking at maybe 5-7 different platforms before I decided to go with LearnWorlds. It is easy to use (intuitive) and there are the features that you need. I am happy I found it!</div>
+                                                                                                    <h5 class="lw-align-l">- Martin B.</h5>
+                                                            </div>
+                        </div>
+                                                                                                    <div class="slide">
+                            <div class="mb-0 lw-align-l quote with-pseudo with-logo-top">
+                                                                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                
+                                
+                                                                    <div class="lw-txt lw-txt-l">Definitely the best option on the market after an extended research I made. I like to compare my options before making a purchase and LW was the clear winner. The amazing, friendly and well trained support team that replies withing a few minutes is what I find also extremely impressive about LW.</div>
+                                                                                                    <h5 class="lw-align-l">- Teya Bozhilova</h5>
+                                                            </div>
+                        </div>
+                                                </div>
+        </div>
+        </div>
+</section>
+<section class="js-demo-form-popup demo-form-popup">
+    <div class="lw-sect flex-item row-sb block-below-768 full-vp h-full-below-768 ov-auto-below-768">
+        <!-- Form Column -->
+        <div class="relative w-50pc w-100-below-768 h-full h-auto-below-768 va-stretch flex-item lw-align-c of-auto flex">
+            <div class="flex-item va-c a-i-c p-2rem m-auto" style="max-width: 100%;">
+                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logo.svg" class="mb-7rem" style="width: 200px; margin-left: auto; margin-right: auto;" />
+                    <form class="-demo-form-v2 js-demo-form" id="popup-form">
+        <header class="mb-4rem lw-align-c mb-7rem-above-1640 demo-form-v2-header">
+            <h2 class="xsmall mb-1rem">Get your free online school</h2>
+            <span class="lw-txt lw-txt-s lw-text-color-fadeout35 mb-0">30-day free trial. No credit card required.</span>
+        </header>
+        <div class="demo-form-v2-main">
+                        <div class="form-loader js-loader" style="display: none">
+                <div class="-waiting-spinner -white-spinner">
+                    <div class="spinner-piece -spinner-piece1"></div>
+                    <div class="spinner-piece -spinner-piece2"></div>
+                    <div class="spinner-piece -spinner-piece3"></div>
+                    <div class="spinner-piece -spinner-piece4"></div>
+                    <div class="spinner-piece -spinner-piece5"></div>
+                    <div class="spinner-piece -spinner-piece6"></div>
+                    <div class="spinner-piece -spinner-piece7"></div>
+                    <div class="spinner-piece -spinner-piece8"></div>
+                    <div class="spinner-piece -spinner-piece9"></div>
+                    <div class="spinner-piece -spinner-piece10"></div>
+                    <div class="spinner-piece -spinner-piece11"></div>
+                    <div class="spinner-piece -spinner-piece12"></div>
+                </div>
+            </div>
+            <div>
+                <input type="hidden" id="fc_channel" name="fc_channel">
+                <input type="hidden" id="fc_content" name="fc_content">
+                <input type="hidden" id="fc_landing" name="fc_landing">
+                <input type="hidden" id="fc_medium" name="fc_medium">
+                <input type="hidden" id="fc_referrer" name="fc_referrer">
+                <input type="hidden" id="fc_source" name="fc_source">
+                <input type="hidden" id="fc_term" name="fc_term">
+                <input type="hidden" id="lc_campaign" name="lc_campaign">
+                <input type="hidden" id="lc_channel" name="lc_channel">
+                <input type="hidden" id="lc_content" name="lc_content">
+                <input type="hidden" id="lc_landing" name="lc_landing">
+                <input type="hidden" id="lc_medium" name="lc_medium">
+                <input type="hidden" id="lc_referrer" name="lc_referrer">
+                <input type="hidden" id="lc_source" name="lc_source">
+                <input type="hidden" id="lc_term" name="lc_term">
+                <input type="hidden" id="OS" name="OS">
+                <input type="hidden" id="GA_Client_ID" name="GA_Client_ID">
+                <input type="hidden" id="all_traffic_sources" name="all_traffic_sources">
+                <input type="hidden" id="browser" name="browser">
+                <input type="hidden" id="country" name="country">
+                <input type="hidden" id="city" name="city">
+                <input type="hidden" id="device" name="device">
+                <input type="hidden" id="page_visits" name="page_visits">
+                <input type="hidden" id="pages_visited_list" name="pages_visited_list">
+                <input type="hidden" id="region" name="region">
+                <input type="hidden" id="time_zone" name="time_zone">
+                <input type="hidden" id="time_passed" name="time_passed">
+            </div>
+            <div class="demo-form-inputs">
+                <div class="mb-2rem mb-3rem-above-1640 lw-input-wrapper">
+                    <input type="email" name="email" class="w-full lw-input-rounded lw-input lw-input-demo" placeholder="Your e-mail" required autofocus />
+                    <span class="lw-input-error-message js-error"></span>
+                </div>
+                <div class="lwcom-ext mb-4rem mb-5rem-above-1640 lw-input-wrapper">
+                    <input type="text" name="domain" class="w-full pr-170 pr-125-below-480 lw-input-rounded lw-input lw-input-demo" placeholder="Your school name" required />
+                    <span class="lw-input-error-message js-error"></span>
+                </div>
+                <input value="Start your 30-day free trial now" class="lw-btn lw-btn-rounded lw-btn-solid-darkblue lw-btn-shadow lw-btn-m nowrap w-full js-send" type="submit" />
+                                <div class="-have-account lw-txt lw-txt-s lw-text-color-fadeout35 mb-0 lw-align-c mt-3rem">
+                    Already have a LearnWorlds account? <a href="https://account.learnworlds.com/login">Log in</a>
+                </div>
+            </div>
+        </div>
+                <div class="js-school-exists lw-align-c" style="display: none;">
+            <div class="mt-7rem" style="max-width: 400px; margin-left: auto; margin-right: auto;">
+                <h2 class="xsmall">Hey friend! Are you lost in the world like me?</h2>
+            </div>
+            <div class="panel large-paddings maxw-500">
+                <div class="lw-screen-content mb-3rem">
+                    <p class="js-school-exists-text">Seems you already have a school here:
+                        <a href="" rel="nofollow" class="js-school-url" style="color: #4bb6ff; display: inline-block;">www.soulara.com</a>
+                        and you are already logged in as an admin:
+                        <span class="js-user-email" style="color: #4bb6ff;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a7d4c8d2cbc6d5c6e7c0cac6cecb89c4c8ca">[email&#160;protected]</a></span></p>
+                </div>
+                <div class="lw-screen-content mb-3rem">
+                    <button type="button" class="-go-to-school-btn lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-s nowrap w-full js-go-to-school">Take me to my school</button>
+                    <p class="bold mt-2rem mb-2rem">or</p>
+                    <button type="button" class="-create-new-school-btn lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-s nowrap w-full js-new-school">Start a new school</button>
+                </div>
+                <div class="lw-screen-content mt-3rem js-demo-logout">
+                    <p class="-sign-out-note-small">Want to <a href="" rel="nofollow" style="color: #4bb6ff;">Login with another account</a>?</p>
+                </div>
+            </div>
+        </div>
+    </form>
+                </div>
+        </div>
+        <!-- OLD Testimonials Column -->
+        <div class="order-1 relative flex-item w-50pc w-100-below-768 va-c h-full h-600-below-768 lw-light-blue-bg p-2rem with-blobs of-hidden">
+                    <div class="fade-slider testimonials-fade-slider js-fade-slider m-auto maxw-700">
+                                                <div class="slide" data-duration='7000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crowd.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">LearnWorlds is the best course sales software that provide the students with on time courses an manages the issues related to course handling. It has a demo that can make the user to feel easy in working.</div>
+                                                                                        <h5 class="lw-align-l">- Ayesha Nasee</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='7000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I took a long time for me to find a great platform for my online schools. LearnWorlds is a robust platform that is very easy to use and setup and it is also affordable for those that are just getting started.</div>
+                                                                                        <h5 class="lw-align-l">- D’Andrea Bolden Ministries</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='5000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">The TEAM behind LearnWorld is what makes the difference and the support they offer.</div>
+                                                                                        <h5 class="lw-align-l">- Ariane G</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='8000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I am in love with this platform and I would never change them for another. I feel cared for by the amazing support team that know my name, my work, my problems and needs. They offered me the attention and personalized tips. All that gave a big boost to my online school.</div>
+                                                                                        <h5 class="lw-align-l">- Teya B.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='5000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">LearnWorlds will soon be recognised as the GLOBAL authority in online teaching... they stand out above the rest and their promises are REAL.</div>
+                                                                                        <h5 class="lw-align-l">- AAW</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='7000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">The confidence I’ve gained in my business is priceless. No matter what issue I might have with my platform, the LearnWorlds Support Squad has my answer. When they say “customer service is their #1 goal” they truly mean it. I’ve never been disappointed.</div>
+                                                                                        <h5 class="lw-align-l">- Missy C.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='5000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I have used few others providers and wasn't satisfied until I found LearnWorlds. They have all the tools and easy to use interface to build your online school.</div>
+                                                                                        <h5 class="lw-align-l">- Jonas K.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='7000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I'd like to say that the support that we've been getting from LW since I got to know the platform is, until this moment, without any doubts one of the best customer services that I've experienced.</div>
+                                                                                        <h5 class="lw-align-l">- Samir A.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='5000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crozdesk.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">Extremely easy to use their in house video hosting platform, so there’s no need to get a platform like vimeo which ultimately saves you money.</div>
+                                                                                        <h5 class="lw-align-l">- Kenneth John</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='8000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I can recommend LearnWorlds as a great tool to manage an online course, academy, accelerator or anything similar. The platform works well and has many adjustable features. The support is super fast and always helpful! 5/5</div>
+                                                                                        <h5 class="lw-align-l">- Alona Belinska</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='8000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crowd.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">LearnWorlds is likely the most interactive learning system I have encountered. Thanks to greatly integrated video functionalities, gamification and personal notes/library there are immense opportunities to enhance the learning experience by creating engaging content.</div>
+                                                                                        <h5 class="lw-align-l">- Epp Krusenvald</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='8000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">Before I committed, I decided to contact every elearning platform but honestly, no one beats what they offer. They are always on top of things and all the best features are always being added. The creators are so amazing, I can tell they work so so hard!</div>
+                                                                                        <h5 class="lw-align-l">- Corine C.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='5000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">Easy to use, good support from the team (very responsive) and costs less than many course platforms</div>
+                                                                                        <h5 class="lw-align-l">- Tany Williams</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='7000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">I was looking at maybe 5-7 different platforms before I decided to go with LearnWorlds. It is easy to use (intuitive) and there are the features that you need. I am happy I found it!</div>
+                                                                                        <h5 class="lw-align-l">- Martin B.</h5>
+                                                    </div>
+                    </div>
+                                                                <div class="slide" data-duration='8000' >
+                        <div class="mb-0 quote with-pseudo with-logo-top">
+                                                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg" class="mb-2rem" />
+                                                                                        <div class="lw-txt lw-txt-l">Definitely the best option on the market after an extended research I made. I like to compare my options before making a purchase and LW was the clear winner. The amazing, friendly and well trained support team that replies withing a few minutes is what I find also extremely impressive about LW.</div>
+                                                                                        <h5 class="lw-align-l">- Teya Bozhilova</h5>
+                                                    </div>
+                    </div>
+                                    </div>
+                <div class="flex-item row-c z-1 mb-2rem">
+                <picture class="w-100 mr-2rem">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-leader_22winter.webp" type="image/webp">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-leader_22winter.png" type="image/png">
+                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-leader_22winter.png" title="LearnWorlds awards" alt="LearnWorlds awards">
+                </picture>
+                <picture class="w-100 mr-2rem">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-momentum_22winter.webp" type="image/webp">
+                    <source srcset="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-momentum_22winter.png" type="image/png">
+                    <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-momentum_22winter.png" title="LearnWorlds awards" alt="LearnWorlds awards">
+                </picture>
+                <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badge-love_us.svg" class="w-100">
+            </div>
+        </div>
+        <!-- Testimonials Column -->
+        <!--div class="relative flex-item w-50pc w-100-below-768 min-h-600 va-c h-full of-hidden">
+            <div class="lw-testimonials h-full">
+                <div class="lw-testimonials-demo t1 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-crowd.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">LearnWorlds is the best course sales software that provides students on time courses and manages all the issues related to course handling. It has a demo that can make the user feel confident when working.</div>
+                                <div class="lw-testimonial-name">- Ayesha Nasee</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t2 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">It took me a long time to find a great platform for my online schools. LearnWorlds is a robust platform that is very easy to use and setup and it is also affordable for those that are just getting started.</div>
+                                <div class="lw-testimonial-name">- D'Andrea Bolden Ministries</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t3 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">The TEAM behind LearnWorlds and the support they offer is what makes the difference.</div>
+                                <div class="lw-testimonial-name">- Ariane G</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t4 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">I am in love with this platform and I would never change them for another. I feel cared by the amazing support team that knows my name, my work, my problems and needs. They offered me attention and personalized tips. All that gave a big boost to my online school.</div>
+                                <div class="lw-testimonial-name">- Teya B.</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t5 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-trustpilot.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">LearnWorlds will soon be recognised as the GLOBAL authority in online teaching... they stand out above the rest and their promises are REAL.</div>
+                                <div class="lw-testimonial-name">- AAW</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t6 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-elearning.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">The confidence I’ve gained in my business is priceless. No matter what issue I might have with my platform, the LearnWorlds Support Squad has my answer. When they say “customer service is their #1 goal” they truly mean it. I’ve never been disappointed.</div>
+                                <div class="lw-testimonial-name">- Missy C.</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                                <div class="lw-testimonials-dot"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="lw-testimonials-demo t7 h-full flex-item va-fe p-4rem">
+                    <div class="lw-testimonials-cnt flex-item h-full va-stretch a-i-fs">
+                        <div class="flex-item j-c-fe" style="width: 100%; justify-content: center; display: flex;">
+                            <img src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards-capterra.svg">
+                        </div>
+                        <div class="flex a-i-fe j-c-sb">
+                            <div class="fg-1 fsh-1">
+                                <img class="mb-2rem" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/quotation-mark-light.svg">
+                                <div class="lw-testimonial-txt mb-3rem">I have used few other providers and wasn't satisfied until I found LearnWorlds. They have all the tools and easy to use interface to build your online school.</div>
+                                <div class="lw-testimonial-name">- Jonas K.</div>
+                            </div>
+                            <div class="lw-testimonials-dots fsh-0 flex">
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot"></div>
+                                <div class="lw-testimonials-dot active"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div-->
+    </div>
+</section>
+        </main><!-- /.main -->
+            </div><!-- /.content -->
+</div><!-- /.wrap -->
+<footer class="lw-sect lw-body-bg lw-size-m no-padding-bottom pb-5rem pt-5rem-below-768 lw-align-c mb-5rem">
+    <!-- <div class="lw-sect-content wide awards">
+        <div class="lw-cols no-gutter mb-0 multiple-rows">
+            <div class="col flex-item span_7_of_12 span_12-below-768">
+                <img class="w-full hide-on-dark-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards1.png"
+                     alt="Customer Experience, Quality of Support, User Recommendation and Continuing Education Systems Awards">
+                <img class="w-full hide-on-light-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards1_white.png"
+                     alt="Customer Experience, Quality of Support, User Recommendation and Continuing Education Systems Awards">
+            </div>
+            <div class="col flex-item span_5_of_12 span_12-below-768 mt-1rem">
+                <img class="w-90pc w-auto-below-768 hide-on-dark-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards2a.svg"
+                     alt="eLearning INDUSTRY, Capterra, Trustpilot Awards">
+                <img class="w-60pc hide-below-768 mt-2rem hide-on-dark-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards2b.svg"
+                     alt="G2 Crowd and crozdesk Awards">
+                <img class="w-90pc w-auto-below-768 hide-on-light-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards2a_white.svg"
+                     alt="eLearning INDUSTRY, Capterra, Trustpilot Awards">
+                <img class="w-60pc hide-below-768 mt-2rem hide-on-light-theme" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/awards2b_white.svg"
+                     alt="G2 Crowd and crozdesk Awards">
+            </div>
+        </div>
+    </div> -->
+    <div class="lw-sect-content wide">
+        <div class="of-hide">
+            <div class="horiz-scroll mb-3rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b1.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b2.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b3.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b4.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b5.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b6.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b7.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b8.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b9.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b10.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b11.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b12.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b13.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b14.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b1.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b2.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b3.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b4.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b5.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b6.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b7.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b8.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b9.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b10.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b11.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b12.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b13.png" class="mr-2rem">
+                <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/b14.png" class="mr-2rem">
+            </div>
+        </div>
+        <div class="flex-item row-c flex-wrap mb-3rem">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a1.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a2.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a3.svg" class="m-0-1rem-2rem-2rem w-135">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a4.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a5.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a6.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a7.svg" class="m-0-1rem-2rem-2rem w-120">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/badges/a8.svg" class="m-0-1rem-2rem-2rem w-120">
+        </div>
+        <!-- <div class="flex-item row-c flex-wrap">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-badges-pt1c.png" class="footer-img footer-img1 mb-2rem">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-badges-pt2.png" class="footer-img footer-img2 mb-2rem">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-badges-pt3.png" class="footer-img footer-img3 mb-4rem">
+            <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/graphic-badges-pt4.png" class="footer-img footer-img4 mb-4rem">
+        </div> -->
+    </div>
+
+    <div class="footer-bg">
+        <div class="lw-sect-content wide mb-10rem">
+            <div class="col flex-item span_12">
+                <div class="lw-txt lw-txt-s mt-3rem">Are you ready?</div>
+                <h2>Get your top-notch Online School!</h2>
+                <a href="/getstarted"
+                   data-context="Footer Rocket"
+                   class="lw-btn lw-btn-rounded lw-btn-solid-accent2 lw-btn-l nowrap shadow w-full-below-620 js-t-getstarted">
+                    <span>Get your Free Online School<span class="hide-below-480"> Today</span></span>
+                </a>
+            </div>
+        </div>
+        <div class="lw-sect-content wide lw-align-l mb-2rem">
+            <img loading="lazy" class="lw-topbar-logo" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/logo.svg" alt="Learnworlds Logo"/>
+        </div>
+        <div class="lw-sect-content wide lw-align-l">
+            <div class="lw-cols mb-0">
+                <div class="col span_3_of_12 flex-item footer-links span_12-below-768">
+                    <div class="lw-txt lw-txt-xs lw-text-color-fadeout20">Our vision is to be rewarded for creating learning products that provoke authentic, comprehensive, continuous, creative and challenging learning experiences. We want future learning, now.</div>
+                    <div class="lw-txt lw-txt-xs lw-text-color-fadeout20">© 2022 LearnWorlds</div>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com/learnworlds/" rel="external" target="_blank">
+                            <img loading="lazy" class="lw-soc-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/instagram.svg" alt="Instagram logo" />
+                        </a>
+                        <a href="https://www.facebook.com/learnWorldsCo?fref=ts" rel="external" target="_blank">
+                            <img loading="lazy" class="lw-soc-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/facebook.svg" alt="Facebook logo" />
+                        </a>
+                        <a href="https://twitter.com/LearnWorlds" rel="external" target="_blank">
+                            <img loading="lazy" class="lw-soc-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/twitter.svg" alt="Twitter logo" />
+                        </a>
+                        <a href="https://www.youtube.com/user/learnWorlds" rel="external" target="_blank">
+                            <img loading="lazy" class="lw-soc-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/youtube.svg" alt="Youtube logo" />
+                        </a>
+                        <a href="https://www.linkedin.com/company/learnworlds/" rel="external" target="_blank">
+                            <img loading="lazy" class="lw-soc-icon" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/linkedin.svg" alt="Linkedin logo"/>
+                        </a>
+                    </div>
+                </div>
+                <div class="col span_9_of_12 span_12-below-768">
+                    <div class="lw-cols multiple-rows">
+
+                        <div class="col span_3_of_12 mb-0 flex-item footer-links span_6-below-1024 span_12-below-480">
+                            <div class="lw-txt lw-txt-xs lw-text-color-fadeout50 semi-bold">Company</div>
+                            <ul class="lw-txt lw-txt-xs semi-bold mb-3rem">
+                                <li><a href="/home">Home</a></li>
+                                <li><a href="/pricing">Pricing</a></li>
+                                <li><a href="/plans">Compare plans</a></li>
+                                <li><a href="/contact">Contact us</a></li>
+                                <li><a href="/careers">Careers</a></li>
+                                <li><a href="/partners-club">Partners</a></li>
+                            </ul>
+                            <div class="lw-txt lw-txt-xs lw-text-color-fadeout50 semi-bold">Get in touch</div>
+                            <ul class="lw-txt lw-txt-xs semi-bold mb-3rem">
+                                <li><a href="tel:+18558999555" itemprop="telephone">US: +1 855 8999555<span class="hide-below-620"> (toll free)</span></a></li>
+                                <li><a href="/cdn-cgi/l/email-protection#8de5e8e1e1e2cde1e8ecffe3fae2ffe1e9fea3eee2e0" title="send email to LearnWorlds" itemprop="email"><span class="__cf_email__" data-cfemail="99f1fcf5f5f6d9f5fcf8ebf7eef6ebf5fdeab7faf6f4">[email&#160;protected]</span></a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col span_3_of_12 mb-0 flex-item footer-links span_6-below-1024 span_12-below-480">
+                            <div class="lw-txt lw-txt-xs lw-text-color-fadeout50 semi-bold">Features</div>
+                            <ul class="lw-txt lw-txt-xs semi-bold mb-3rem">
+                                <li><a href="/learning-experience">Build awesome courses</a></li>
+                                <li><a href="/marketing-tools">Market and Sell courses</a></li>
+                                <li><a href="/school-website">Create School Website</a></li>
+                                <li><a href="/reports-center">Reports & Insights</a></li>
+                                <li><a href="/customer-success">Get tons of help!</a></li>
+                                <li><a href="/corporate-training">Corporate training</a></li>
+                                <li><a href="/lms-training">The best LMS</a></li>
+                                <li><a href="/integrations">Integrations</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col span_3_of_12 mb-0 flex-item footer-links span_6-below-1024 span_12-below-480">
+                            <div class="lw-txt lw-txt-xs lw-text-color-fadeout50 semi-bold">Resources</div>
+                            <ul class="lw-txt lw-txt-xs semi-bold mb-3rem">
+                                <li><a href="/blog">Blog</a></li>
+                                <li><a href="/academy">Academy</a></li>
+                                <li><a href="/resources">Free eBooks & checklists</a></li>
+                                <li><a href="/reviews">Customer Reviews</a></li>
+                                <li><a href="https://whatsnew.learnworlds.com/en" rel="external" target="_blank">What's New</a></li>
+                                <li><a href="https://support.learnworlds.com/" rel="external" target="_blank">Help Center</a></li>
+                                <li><a href="/sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col span_3_of_12 mb-0 flex-item footer-links span_6-below-1024 span_12-below-480">
+                            <div class="lw-txt lw-txt-xs lw-text-color-fadeout50 semi-bold">Policies</div>
+                            <ul class="lw-txt lw-txt-xs semi-bold">
+                                <li><a href="/privacy-policy">Privacy</a></li>
+                                <li><a href="/cookie-policy">Cookies</a></li>
+<!--                                <li>--><!--</li>-->
+                                <li><a href="/data-security">Data Security</a></li>
+                                <li><a href="/terms">Terms and Conditions</a></li>
+                                <li>
+                                    <div class="-gdpr-tag" style="margin-top: 3px; display: inline-block; border-radius: 20px;
+                                padding: 6px 13px 7px 8px; color: white; background-color: rgb(34,62,146); font-size: 12px;">
+                                        <img loading="lazy" src="https://www.learnworlds.com/app/themes/learnworlds/dist/images/gdpr-icon.png" widht="23" height="23" alt="EU-GDPR Compliant Icon"
+                                             style="position: relative; top: -0.5px; vertical-align: middle; width: 23px; margin-right: 3px;">
+                                        <span style="vertical-align: middle;">EU-GDPR Compliant</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+ <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  analytics.track("Viewed Home Page", {"noninteraction":true}, {"library":"analytics-wordpress"});
+    
+</script>
+<script>
+var ajaxurl = 'https://www.learnworlds.com/wp/wp-admin/admin-ajax.php';
+</script>
+<script>
+var pagesWithoutChatWidget = ['next-level-academy-unwrapped', 'watch-demo'];
+var pageSlug = window.location.pathname.replaceAll('/', '');
+if(pagesWithoutChatWidget.indexOf(pageSlug) < 0){
+  window.fcSettings = {
+    token: "c8381d54-49fd-4935-82fb-d745954b5633",
+    host: "https://wchat.freshchat.com"
+  };
+}
+</script>
+<script src="https://wchat.freshchat.com/js/widget.js?v=1" async></script>
+    <!-- Firstpromoter -->
+    <script type="text/javascript">(function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://cdn.firstpromoter.com/fprom.js',t.onload=t.onreadystatechange=function(){var t=this.readyState;if(!t||"complete"==t||"loaded"==t)try{$FPROM.init("8vtr40oz",".learnworlds.com")}catch(t){}};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();</script>
+    <!-- Partnerstack -->
+    <script type='text/javascript'>(function() {var gs = document.createElement('script');gs.src = 'https://js.partnerstack.com/v1/';gs.type = 'text/javascript';gs.async = 'true';gs.onload = gs.onreadystatechange = function() {var rs = this.readyState;if (rs && rs != 'complete' && rs != 'loaded') return;try {growsumo._initialize('pk_FeHQQLKi2B7W1FVc6K8ZwNitQB8khLmK');if (typeof(growsumoInit) === 'function') {growsumoInit();}} catch (e) {}};var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gs, s);})();</script>
+        <!-- AgileCRM -->
+    <script id="_agile_min_js" type="text/javascript" src="https://learnworlds.agilecrm.com/stats/min/agile-min.js"> </script>
+    <script type="text/javascript"> _agile.set_account('5q129tl640cemcatr8a01qfje1', 'learnworlds'); _agile.track_page_view(); _agile_execute_web_rules();</script>
+    
+            <script type="text/javascript" src="https://www.usefomo.com/api/v1/CLRO_6Q0xkYrT0RlXxbslg/load.js" async></script>
+        <script src="//static.leadpages.net/leadboxes/current/embed.js" async defer></script>
+        <script>window.addEventListener('LPLeadboxesReady',function(){LPLeadboxes.setExitIntent('YZFRA4Hqb6aNFtRAwGLHD2',{dontShowFor:'7d',domain:'learnworlds.lpages.co'});});</script>
+    <script src="/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"9.0.123"};
+/* ]]> */
+</script>
+<script src="https://js-eu1.hs-scripts.com/25202388.js?integration=WordPress&#038;ver=9.0.123" async defer id="hs-script-loader"></script>
+<script type='text/javascript' id='tptn_tracker-js-extra'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.learnworlds.com\/wp\/wp-admin\/admin-ajax.php","top_ten_id":"2","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"238304113"};
+/* ]]> */
+</script>
+<script src="/app/plugins/top-10/includes/js/top-10-tracker.min.js?ver=1.0" id="tptn_tracker-js"></script>
+<script src="/app/themes/learnworlds/dist/scripts/modernizr-c0987316.js" id="modernizr-js"></script>
+<script src="/app/themes/learnworlds/dist/scripts/main-482e8530.js" id="sage_js-js"></script>
+<script id="molongui-authorship-front-inline-js-extra">var molongui_authorship_front_params = {"byline_prefix":"","byline_suffix":"","byline_separator":", ","byline_last_separator":" and ","byline_link_title":"View all posts by","byline_dom_tree":""};</script><script id="molongui-authorship-front-inline-js" type="text/javascript" data-file="front.16cd.min.js" data-version="4.5.2">var addBylineModifiers=function(){var r="?m_bm=true",e=document.querySelectorAll('a[href$="'+r+'"]');Array.prototype.forEach.call(e,function(e,t){e.setAttribute("href",decodeURIComponent(e.getAttribute("href")).replace(r,"")),e.insertAdjacentHTML("beforebegin",molongui_authorship_front_params.byline_prefix+" "),e.insertAdjacentHTML("afterend"," "+molongui_authorship_front_params.byline_suffix)})},decodeMultiAuthorBylines=function(){var e=document.querySelectorAll('a[href*="molongui_byline=true"]');Array.prototype.forEach.call(e,function(e,t){var r=e.getAttribute("href"),i=new URL(decodeURIComponent(r)),n=new URLSearchParams(i.search),a=i.origin,o=i.pathname,r="";if(!n.has("molongui_byline"))return!1;if(n.has("lang")&&(r="?lang="+n.get("lang")),""===e.innerText)return n.has("m_main_disabled")?e.removeAttribute("href"):e.setAttribute("href",a+o+r),!1;var l,s=[molongui_authorship_front_params.byline_separator,molongui_authorship_front_params.byline_last_separator],u=e.innerText.split(new RegExp(s.join("|"),"gi"));n.has("m_main_disabled")?(l=n.getAll("mca")).unshift("molongui-disabled-link"):(i=o.replace(/^\/|\/$/g,"").split("/").pop(),o.replace(/\/$/g,"").replace(i,""),(l=n.getAll("mca")).unshift(a+o+r));var d="",m=u.length,n=e.getAttribute("class"),a=e.getAttribute("target"),o=e.getAttribute("rel"),r=e.getAttribute("itemprop"),c=n?'class="'+n+'"':"",h=a?'target="'+a+'"':"",p=o?'rel="'+o+'"':"",f=r?'itemprop="'+r+'"':"";for(j=0;j<m;j++){var _=u[j].trim(),b="",b=""!==molongui_authorship_front_params.byline_dom_tree?molongui_authorship_front_params.byline_dom_tree.replace("{%ma_authorName}",_):_;"molongui-disabled-link"===l[j]||j>=l.length?d+=b:d+='<a href="'+l[j]+'" '+c+" "+p+" "+f+" "+h+' title="'+molongui_authorship_front_params.byline_link_title+" "+_+'">'+b+"</a>",j<m-1-1?d+=s[0]:j<m-1&&(d+=s[1])}e.insertAdjacentHTML("afterend",d),e.parentNode.removeChild(e)})},disableEmptyLinks=function(){var e=document.querySelectorAll('a[href="#molongui-disabled-link"]');Array.prototype.forEach.call(e,function(e,t){e.classList.add("molongui-disabled-link"),e.removeAttribute("href")})},initBylines=function(){addBylineModifiers(),decodeMultiAuthorBylines(),disableEmptyLinks()};document.addEventListener("DOMContentLoaded",function(){initBylines();var e=document.body;new MutationObserver(function(e){Array.prototype.forEach.call(e,function(e,t){initBylines()})}).observe(e,{attributes:!0,childList:!0,subtree:!0,characterData:!0})});</script><div class="swp-hidden-panel-wrap" style="display: none; visibility: collapse; opacity: 0"><div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="" data-float="none" data-float-mobile="none" data-transition="slide" data-post-id="2" ><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.learnworlds.com%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.learnworlds.com%2F"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span><span class="swp_count">2K</span></a></div><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Home&url=https%3A%2F%2Fwww.learnworlds.com%2F" data-link="https://twitter.com/intent/tweet?text=Home&url=https%3A%2F%2Fwww.learnworlds.com%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.learnworlds.com%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.learnworlds.com%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button total_shares total_sharesalt" ><span class="swp_count ">2K <span class="swp_label">Shares</span></span></div></div></div><script type="text/javascript"> var swp_nonce = "ef1b2159d8";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://www.learnworlds.com/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://www.learnworlds.com/wp/wp-admin/admin-ajax.php"; var swp_post_id = "2";var swpClickTracking = false;</script><div data-m-brand="Molongui" data-m-id="Authorship" data-m-license="Lite" data-m-version="4.5.2" data-m-link="https://www.molongui.com/authorship/"></div></body>
+</html>
+
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
